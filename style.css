@@ -1,0 +1,43 @@
+.form{
+    width: 70%;
+    height: 500px;
+    padding-left: 30%;
+    background: linear-gradient(to bottom, black,#eeffaa,#33eeffdd,#eedd3322,black );
+    padding-top: 5%;
+}
+h2{
+    text-align: center;
+    color: black;
+}
+h4{
+    color: black;
+}
+#id{
+    width: 40%;
+    height: 84%;
+    background: transparent;
+    border-left: 50%;
+    justify-content: center;
+    padding-top: 4%;
+    border-color: azure;
+    border: solid black;
+    padding-left: 13%;
+    padding-right: 17%;
+
+}
+input{
+border-left: none;
+border-right: none;
+border-top: none;
+border-bottom:1;
+    background-color: transparent;
+    padding: 5px;
+
+}
+button{
+    padding: 5px 60px 2% ;
+    color:white;
+    background-color:brown;
+    border-radius: 40px;
+    border: none;
+}
